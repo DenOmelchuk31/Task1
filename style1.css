@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(239, 234, 234);
+}
+
+h1 {
+    color: rgb(65, 65, 171);
+    text-align: center;
+}
+
+h1,h2,p {
+    margin: 20px;
+}
+
+h2 {
+    color: grey;
+}
